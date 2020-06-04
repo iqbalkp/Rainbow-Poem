@@ -5,6 +5,7 @@ Pink
 Yellow
 Green
 Red
+Black
 Indigo
 These are the color of the rainbow.
 Pony
